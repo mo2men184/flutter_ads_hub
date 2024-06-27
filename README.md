@@ -12,18 +12,18 @@ This Flutter project demonstrates integrating Google AdMob and Facebook Audience
 
 ## 🏗️ Project Structure
 
-- **lib/**
-**├── controllers/**
-**│ └── ad_controller.dart** # Manages the ad loading and switching logic
-**├── models/**
-**│ └── ad_config.dart** # Data model for ad configuration
-**├── services/**
-**│ └── ad_service.dart** # Service to fetch ad configuration
-**├── utils/**
-**│ └── ad_utils.dart** # Utility functions for loading ads
-**├── views/**
-**│ └── main_view.dart** # Main view displaying ads
-**└── main.dart** # Entry point of the application
+- `lib/`
+  - `controllers/`
+    - `ad_controller.dart`: Manages the ad loading and switching logic
+  - `models/`
+    - `ad_config.dart`: Data model for ad configuration
+  - `services/`
+    - `ad_service.dart`: Service to fetch ad configuration
+  - `utils/`
+    - `ad_utils.dart`: Utility functions for loading ads
+  - `views/`
+    - `main_view.dart`: Main view displaying ads
+  - `main.dart`: Entry point of the application
 
 
 ## 📋 Usage
