@@ -10,6 +10,12 @@ This Flutter project demonstrates integrating Google AdMob and Facebook Audience
 - **⚠️ Error Handling**: Handles ad load failures and network errors gracefully, with retry mechanisms and fallback UI.
 - **📐 Clean Architecture**: Separates business logic, services, and UI for maintainable and scalable code.
 
+
+## 📽 Preview
+
+![App Demo](preview/flutter_ads_hub.gif)
+
+
 ## 🏗️ Project Structure
 
 - `lib/`
